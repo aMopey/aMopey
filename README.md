@@ -57,7 +57,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/aMopey/Home-Lab-Setting) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo]() |
 | 03-aws-deployment | Configuring & hardening Cloud console in AWS | [View Repo](https://github.com/aMopey/Cloud-Security-Implementation-Project-ISO-NIST-CIS-Aligned-) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
