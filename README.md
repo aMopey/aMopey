@@ -65,7 +65,7 @@
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/aMopey/Mitre-Threat-hunt/tree/main) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/aMopey/Phishing-Campaign-Simulation) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/aMopey/Phishing-email-forensics/blob/main/Phishing%20Analysis%20Report.pdf) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
