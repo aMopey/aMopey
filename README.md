@@ -62,7 +62,7 @@
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/aMopey/security-policy-dev) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/aMopey/vulnerability-assessment) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/aMopey/Network-Monitoring) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/aMopey/Mitre-Threat-hunt/tree/main) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/aMopey/Phishing-Campaign-Simulation) |
